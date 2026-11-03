@@ -1,0 +1,6 @@
+# Ignore PDF files
+*.pdf
+
+# Obsidian workspace layout
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
